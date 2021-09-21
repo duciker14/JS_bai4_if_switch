@@ -1,1 +1,1 @@
-# JS_bai4_if_switch
+Javascipt Bài 4: cấu trúc điều khiển if, switch
